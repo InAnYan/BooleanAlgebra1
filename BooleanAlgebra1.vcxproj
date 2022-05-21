@@ -19,12 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ast.hpp" />
-    <ClInclude Include="program.hpp" />
+    <ClInclude Include="src\ast.hpp" />
+    <ClInclude Include="src\program.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="interpreter.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\interpreter.cpp" />
+    <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
