@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/BooleanAlgebra1/v17
+/BooleanAlgebra1.vcxproj.user
+/BooleanAlgebra1.vcxproj.filters
